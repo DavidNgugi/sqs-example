@@ -1,2 +1,2 @@
 [celery]
-broker=sqs://asdf:asdf@localhost:9324/queue/skill-assessments.fifo
+broker=sqs://localhost:9324/queue/skill-assessments.fifo
